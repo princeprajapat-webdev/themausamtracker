@@ -100,7 +100,7 @@ function WeatherApp() {
                 <div className="flex items-center justify-between">
                     <div className="flex items-center gap-2">
                         <span className="text-lg font-semibold tracking-wider text-[#FFFFFF] drop-shadow-[0_0_8px_rgba(0,242,254,0.4)] uppercase">
-                            Weather App
+                            Mausam Tracker
                         </span>
                     </div>
                     <div className="flex items-center gap-1.5 text-[10px] font-mono tracking-wider text-[#FFFFFF] px-2.5 py-0.5 rounded-full backdrop-blur-md" style={{ backgroundColor: "rgba(255, 255, 255, 0.08)", border: "1px solid rgba(255, 255, 255, 0.2)" }}>
