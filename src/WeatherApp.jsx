@@ -99,7 +99,7 @@ function WeatherApp() {
             <div className="relative z-10 w-[360px] min-h-[580px] rounded-[20px] backdrop-blur-2xl p-6 shadow-[0_16px_40px_rgba(0,0,0,0.6)] flex flex-col gap-5" style={{ backgroundColor: "rgba(255, 255, 255, 0.08)", border: "1px solid rgba(255, 255, 255, 0.2)" }}>
                 <div className="flex items-center justify-between">
                     <div className="flex items-center gap-2">
-                        <span className="text-lg font-semibold tracking-wider text-[#FFFFFF] drop-shadow-[0_0_8px_rgba(0,242,254,0.4)] uppercase">
+                        <span className="text-lg font-semibold tracking-wider text-[#FFFFFF] drop-shadow-[0_0_8px_rgba(0,242,254,0.4)]">
                             Mausam Tracker
                         </span>
                     </div>
